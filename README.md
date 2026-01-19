@@ -11,3 +11,4 @@ This repository documents my daily practice of Linux fundamentals.
 
 ## Goal
 To build a strong foundation for cybersecurity and ethical hacking.
+
